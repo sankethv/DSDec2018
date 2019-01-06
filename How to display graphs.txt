@@ -1,0 +1,2 @@
+Go to Spyder-->Menu Bar-->Tools-->Preferences-->iPython Console-->
+Click on Graphics Tab in the right side panel-->Under Garphics Back end-->Select Backend as Automatic.
